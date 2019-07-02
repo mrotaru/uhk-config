@@ -5750,31 +5750,11 @@
                 null,
                 {
                   "keyActionType": "mouse",
-                  "mouseAction": "scrollLeft"
+                  "mouseAction": "moveDown"
                 },
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "moveUp"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "scrollRight"
-                },
-                null,
-                null,
-                null,
-                null,
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "scrollUp"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "scrollDown"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "scrollUp"
                 },
                 {
                   "keyActionType": "mouse",
@@ -5783,9 +5763,29 @@
                 null,
                 null,
                 null,
+                null,
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "moveLeft"
+                },
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "scrollDown"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "scrollUp"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "scrollRight"
+                },
+                null,
+                null,
+                null,
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "scrollLeft"
                 },
                 null,
                 null,
@@ -5872,8 +5872,14 @@
                 },
                 null,
                 null,
-                null,
-                null,
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                },
                 null,
                 null,
                 null,
