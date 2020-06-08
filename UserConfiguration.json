@@ -470,7 +470,8 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 73
+                  "scancode": 73,
+                  "modifierMask": 2
                 },
                 null,
                 {
@@ -1086,7 +1087,11 @@
                 },
                 null,
                 null,
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 74
+                },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
